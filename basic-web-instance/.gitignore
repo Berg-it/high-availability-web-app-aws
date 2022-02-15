@@ -1,0 +1,8 @@
+.terraform/*
+terraform.tfvars
+terraform.tfstate.backup
+.terraform.lock.hcl
+lambda/myzip/*
+terraform.tfstate
+.DS_Store
+*.pem

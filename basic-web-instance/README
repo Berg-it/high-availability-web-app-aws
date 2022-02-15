@@ -1,0 +1,1 @@
+ssh -i /Users/berguiga/Documents/aws-tuto/terraform-project/high-av-web/terraform-key-pair.pem ec2-user@ec2-13-38-128-31.eu-west-3.compute.amazonaws.com
